@@ -3,8 +3,8 @@ The Future Foresight team of RTA has developed a pilot project – The Future Sc
 Install Python 3.5 and above
 
 Install python libraries
-pandas
-nltk
+#pandas
+#nltk
 numpy
 re
 fitz
