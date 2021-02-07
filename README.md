@@ -10,7 +10,7 @@
   <p align="center">
     <!-- <br /><a href="https://github.com/EpicMahmoudSammourRTA/Future_Scanner"><strong>Explore the docs »</strong></a><br /> -->
     <br />
-    <a href="https://youtu.be/jTZTG-oUk-I">View Demo</a>
+    <!--<a href="https://youtu.be/jTZTG-oUk-I">View Demo</a> -->
     ·
     <a href="https://github.com/EpicMahmoudSammourRTA/Future_Scanner/issues">Report Bug</a>
     ·
