@@ -50,9 +50,9 @@ The Future Foresight team of RTA has developed a pilot project – The Future Sc
 
 ### Built With
 
-* [python 3.6 or later is required]()
-* [Flask]()
-* [FastText]()
+* [python 3.6 or later is required](https://www.python.org/downloads/release/python-367/)
+* [Flask](https://www.fullstackpython.com/flask.html)
+* [FastText](https://fasttext.cc/)
 
 
 
