@@ -8,7 +8,6 @@
   <h3 align="center">Future Scanner PoC</h3>
 
   <p align="center">
-    The Future Foresight team of RTA has developed a pilot project – The Future Scanner – which enables the collation of materials (news articles) of interest to the transport business. The labelling of the documents/articles is currently manual and if not done on submission, could result in a significant back log of work. Also If this labelling is not done, the value of the database is significantly lowered.RTA wants to develop an ability to automatically label new documents with an existing theme from within the Future Scanner database
     <!-- <br /><a href="https://github.com/EpicMahmoudSammourRTA/Future_Scanner"><strong>Explore the docs »</strong></a><br /> -->
     <br />
     <a href="https://youtu.be/jTZTG-oUk-I">View Demo</a>
@@ -66,7 +65,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/EpicMahmoudSammourRTA/Future_Scanner.git
    ```
 2. Install packages
    ```sh
