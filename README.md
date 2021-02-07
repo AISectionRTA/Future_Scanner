@@ -11,7 +11,7 @@
     The Future Foresight team of RTA has developed a pilot project – The Future Scanner – which enables the collation of materials (news articles) of interest to the transport business. The labelling of the documents/articles is currently manual and if not done on submission, could result in a significant back log of work. Also If this labelling is not done, the value of the database is significantly lowered.RTA wants to develop an ability to automatically label new documents with an existing theme from within the Future Scanner database
     <!-- <br /><a href="https://github.com/EpicMahmoudSammourRTA/Future_Scanner"><strong>Explore the docs »</strong></a><br /> -->
     <br />
-    <a href="https://github.com/EpicMahmoudSammourRTA/Future_Scanner/demo">View Demo</a>
+    <a href="https://youtu.be/jTZTG-oUk-I">View Demo</a>
     ·
     <a href="https://github.com/EpicMahmoudSammourRTA/Future_Scanner/issues">Report Bug</a>
     ·
@@ -44,7 +44,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
- The Future Foresight team of RTA has developed a pilot project – The Future Scanner – which enables the collation of materials (news articles) of interest to the transport business. The labelling of the documents/articles is currently manual and if not done on submission, could result in a significant back log of work. Also If this labelling is not done, the value of the database is significantly lowered.RTA wants to develop an ability to automatically label new documents with an existing theme from within the Future Scanner database
+The Future Foresight team of RTA has developed a pilot project – The Future Scanner – which enables the collation of materials (news articles) of interest to the transport business. The labelling of the documents/articles is currently manual and if not done on submission, could result in a significant back log of work. Also If this labelling is not done, the value of the database is significantly lowered.RTA wants to develop an ability to automatically label new documents with an existing theme from within the Future Scanner database
 `EpicMahmoudSammourRTA`, `Future_Scanner`, `epic_mahmoud.sammour@rta.ae`, `Future Scanner AI PoC`
 
 
@@ -91,7 +91,7 @@ To get a local copy up and running follow these simple steps.
 
 To run this PoC in script mode, please use the Future_Scanner/Model_Source_Code/Code.py python script.
 Note you have to make sure to select the correct Directory containing your PDF research paper files
-the code will generate an xlsx file inside the Data/Output Directory,
+the code will generate an xlsx file inside the Data/Output Directory, also a Future_Scanner.ipynb for notebook mode.
  
 Alternatively, you may use the provided Flask app GUI run index.py, and open your browser and type http://localhost:5000/ to access the GUI form
 
